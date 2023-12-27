@@ -1,9 +1,9 @@
 
 import './App.css';
 import Navbar from './Navbar';
-import About from './pages/about';
-import Rules from './pages/rules';
-import Home from './pages/home';
+import About from './about';
+import Rules from './rules';
+import Home from './home';
 import React from 'react';
 
 
