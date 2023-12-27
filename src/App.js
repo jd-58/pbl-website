@@ -4,9 +4,11 @@ import Navbar from './Navbar';
 import About from './pages/about';
 import Rules from './pages/rules';
 import Home from './pages/home';
+import React, { useEffect} from 'react';
 
 
 function App() {
+
   let Component
   switch (window.location.pathname) {
     case "/":

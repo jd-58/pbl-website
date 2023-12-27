@@ -1,3 +1,5 @@
+import logo from './PBLlogoWrittenOut.png';
+
 export default function Home() {
     return (
 
@@ -12,6 +14,7 @@ export default function Home() {
           <p className="PageContent">
             Test2
           </p>
+          <a href="/" className="site-title"><img src={logo} className="logoInPage" alt="logo"/></a>
         </div>
       );
 }

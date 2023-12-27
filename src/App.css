@@ -1,11 +1,43 @@
+
+
 * {
   box-sizing: border-box;
 }
+
+
 
 .container {
   margin: 1rem;
   text-align: center;
   color: white;
+}
+
+.aboutContent {
+    padding: 5rem 0rem 5rem 0rem;
+    font-weight: normal;
+}
+
+.pageContent {
+  padding: 1rem 8rem 1rem 8rem;
+  font-weight: normal;
+}
+
+.rulesContentInList {
+  padding: 1rem;
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+ol {
+  list-style-position: inside;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+ul {
+  list-style-position: inside;
+  font-weight: bold;
+  font-size: 1.2rem;
 }
 
 .App {
@@ -36,7 +68,7 @@ body {
   justify-content: space-between;
   align-items: stretch;
   gap: 2rem;
-  padding: 0 1rem;
+  padding: 0 2rem;
 }
 
 .site-title {
@@ -44,12 +76,19 @@ body {
   align-items: center;
 }
 
+.logoInPage {
+  height: 20vmin;
+  align-items: center;
+  pointer-events: none;
+}
+
 .nav ul {
   padding: 0;
   margin: 0;
   list-style: none;
   display: flex;
-  gap: 1rem;
+  gap: 2rem;
+  font-size: 1.7rem;
 }
 
 .nav a {
