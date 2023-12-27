@@ -1,10 +1,10 @@
-import logo from './PBLlogo.png';
+
 import './App.css';
 import Navbar from './Navbar';
 import About from './pages/about';
 import Rules from './pages/rules';
 import Home from './pages/home';
-import React, { useEffect} from 'react';
+import React from 'react';
 
 
 function App() {
