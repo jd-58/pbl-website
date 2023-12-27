@@ -7,19 +7,25 @@
 
 
 .container {
-  margin: 1rem;
+  margin: 0.5rem;
   text-align: center;
   color: white;
 }
 
 .aboutContent {
-    padding: 5rem 0rem 5rem 0rem;
+    padding: 1rem 1rem 1rem 1rem;
     font-weight: normal;
 }
 
-.pageContent {
-  padding: 1rem 8rem 1rem 8rem;
+.rulesContent {
+  padding: 1rem 2rem 1rem 2rem;
   font-weight: normal;
+}
+
+.pageContent {
+  padding: 1rem 1rem 1rem 1rem;
+  font-weight: normal;
+  font-size: 1rem;
 }
 
 .rulesContentInList {
@@ -35,7 +41,7 @@ h1 {
 ol {
   list-style-position: inside;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 ul {

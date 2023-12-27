@@ -11,7 +11,7 @@ export default function Home() {
             </h1>
     
           </header>
-          <p className="PageContent">
+          <p className="pageContent">
             Welcome to the official website of the Pro Beerio League! This is a project started by Jacob, Emma, Mackenzie, Peter, Elias, and Brennan in order to
             keep the spirit of Beerio alive with everyone moving to different physical locations. This league will run off of a custom-built modpack made by Jacob
             in order to facilitate online Beerio (with non-alcoholic seltzer) matches! If you would like to learn more about how the league would be structured and what

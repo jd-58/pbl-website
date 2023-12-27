@@ -15,11 +15,11 @@ each with their own pros and cons. If you have any questions, comments, or sugge
 </p>
 <ol>
     <li classname="rulesList">Regular Scoring</li>
-        <p className="rulesContentInList">This is the most straightforward, but least inclusive option. In this rule set, the winner of a race is
+        <p className="pageContent">This is the most straightforward, but least inclusive option. In this rule set, the winner of a race is
         simply determined by who crosses the finish line first. The winner would receive all of the potential points, but there would be opportunities for both
         players to gain additional points for things such as a perfect lap. This method is very simple, but potentially would not be fun or inclusive for as many people.</p>
     <li classname="rulesList">Spread Scoring</li>
-        <p className="rulesContentInList">This method is a bit more complicated, but would be inclusive for everyone. This method calculates a "spread" between
+        <p className="pageContent">This method is a bit more complicated, but would be inclusive for everyone. This method calculates a "spread" between
         two players, and uses this spread to determine the race winner. To calculate this, each player will submit three separate one lap time trials of Mushroom
         Peaks, seltzer chugging included. These three times will be averaged together to get a player's average lap time. This time will differ slightly from
         race conditions, so we will calculate the difference between a time trial time and actual race time (By doing a bunch of actual beerio races, and comparing
@@ -30,7 +30,7 @@ each with their own pros and cons. If you have any questions, comments, or sugge
         win. This allows players of all different skill levels to compete with each other and have fun. There are more details, such as updating race times
         throughout the season, not having a spread if 2 players are very close to being evenly matched, etc. but these are the basics of the idea.</p>
     <li classname="rulesList">Hybrid Scoring</li>
-            <p className="rulesContentInList">
+            <p className="pageContent">
                 This method is a combination of method 1 and method 2. In this method, we would still get a race time for each player and calculate the spread,
                 but the spread would only be used to calculate how many points each player gets. In this method, the winner of a race is still who crosses the
                 finish line first, like in method 1, but the spread is used to weight the potential amount of points won toward the player with the higher time.
