@@ -20,6 +20,9 @@ function App() {
         case "/rules":
           Component = Rules
           break
+          default:
+            Component = Home
+
 
 
    }
