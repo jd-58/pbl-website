@@ -28,7 +28,8 @@ each with their own pros and cons. If you have any questions, comments, or sugge
         will be 15 seconds. This means that if Player A crosses the finish line first by more than 15 seconds, they actually win the race and receive points for winning the race.
         If Player A crosses the finish line first, but the margin of victory is less than 15 seconds, Player B actually wins the race, and receives points for the
         win. This allows players of all different skill levels to compete with each other and have fun. There are more details, such as updating race times
-        throughout the season, not having a spread if 2 players are very close to being evenly matched, etc. but these are the basics of the idea.</p>
+        throughout the season, (likely) favoring the  higher skilled player just slightly in the spread calculation to reward practicing and improving,
+        not having a spread if 2 players are very close to being evenly matched, etc. but these are the basics of the idea.</p>
     <li classname="rulesList">Hybrid Scoring</li>
             <p className="pageContent">
                 This method is a combination of method 1 and method 2. In this method, we would still get a race time for each player and calculate the spread,

@@ -6,12 +6,12 @@ export default function About() {
     <h1>About</h1>
     <p className="aboutContent">
         This page will contain information about general league info (such as the proposed league structure) and what hardware/items you need to participate.
-        This league is meant to be a fun way for everyone to socialize and hang out, while having being semi-serious competition. The league will utilize a custom
-        modpack made by Jacob that will include everything we need to run the league (such as a 1 lap variant of Mushroom Peaks, custom item distribution, online
-        race functionality, etc.). This modpack will be installed through the Riivolution platform, which is a platform made for easy instillation of Mario Kart
+        This league is meant to be a fun way for everyone to socialize and hang out, while having semi-serious competition. The league will utilize a custom
+        modpack made by Jacob that will include everything needed to run the league (such as a 1 lap variant of Mushroom Peaks, custom item distribution, online
+        race functionality, etc.). This modpack will be installed through Riivolution, a platform made for easy installation of Mario Kart
         mods. Included in the modpack will be online race functionality, meaning that if you go to play an online race with the mod installed, it will only search
-        for and pair you up with other players who have the modpack installed. This is how most races will be taking place, and what allows us to have anyone from
-        around the country/world be able to join. As a note, each race will require chugging of something, but it doesn't have to be beer! Drinking a non-alcoholic
+        and match with other players who have the modpack installed. This is how most races will be taking place, and what allows us to have anyone from
+        around the country/world join. As a note, each race will require chugging of something, but it doesn't have to be beer! Drinking a non-alcoholic
         seltzer is encouraged and will be the default unless both players agree to drink something else.
     </p>
 <h2>Proposed League Structure</h2>
