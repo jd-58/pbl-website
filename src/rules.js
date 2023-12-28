@@ -6,8 +6,9 @@ export default function Rules() {
 <h1>Rules</h1>
 <p className="pageContent">
 There are currently three proposed rule sets for how points will be calculated for the PBL. Once we have the finalized list of potential members,
-we can move to discussing/voting on the finalized rule set. As a note, each race will be one lap of Mushroom Peaks, and a non-alcoholic seltzer will be the
-default drink. Beer or other substitutes may be used if both players agree. We will also edit the item probabilities,
+we can move to discussing/voting on the finalized rule set. As a note, each race will be one lap of Mushroom Peaks, played without CPUs (since it is not possible to
+have them in an online race), and a non-alcoholic seltzer will be the default drink. Beer or other substitutes may be used if both players agree.
+There is a mod built in to the modpack that displays the time of each player at the end of the race that will be used for scoring purposes. We will also edit the item probabilities
 in order to maintain competitiveness. Item balancing is an ongoing process, and won't be finalized until all participants approve. This page will just focus on
 potential methods of scoring races. The goal with creating a rule set is to be inclusive and allow as many people as possible
 to enjoy playing in the league, even if you haven't been grinding peaks for the last 2 years. With this in mind, we have proposed 3 different rule sets,
