@@ -27,8 +27,14 @@ export default function About() {
     but these likely wouldn't be implemented in the first short season (Season 0). If you have any other ideas, let Jacob know!
     </p>
 <h2>What You Need to Participate</h2>
-<p className="aboutContent">In order to participate, you will need either a Wii or a Wii U, an SD card that is 32GB or smaller, a Wii to HDMI converter if your TV doesn't have component input, and
-some non-alcoholic seltzers (or beer if you'd like). You can technically use a bigger SD card, but you will have to partition it into at least one 32GB or less segment
+<p className="aboutContent">In order to participate, you will need:
+<ul>
+<li classname="rulesList">A Wii or Wii U</li>
+<li classname="rulesList">An SD Card that is less than 32GB</li>
+<li classname="rulesList">A Wii to HDMI converter</li>
+<li classname="rulesList">Something to drink!</li>
+    </ul>
+You can technically use a bigger SD card, but you will have to partition it into at least one 32GB or less segment
 in order to use the FAT32 file format, which is required to install the mod. You can also use Dolphin Emulator, a Wii emulator you can download on a computer, to play league matches
 but ONLY if you have a Wii or Wii U. This is because of a security feature on the Dolphin Emulator, that requires NAND files from a physical Wii or Wii U in order to play
 online (to prevent cheating with other, more popular mods online). This means that as long as you own a Wii or Wii U, you can download the emulator for free onto your computer/laptop,
