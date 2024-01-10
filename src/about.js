@@ -34,7 +34,7 @@ export default function About() {
 <li classname="rulesList">A Wii to HDMI converter</li>
 <li classname="rulesList">Something to drink!</li>
     </ul>
-You can technically use a bigger SD card, but you will have to partition it into at least one 32GB or less segment
+The default drink will be a standard can of non-alcoholic seltzer. If both players agree, beer can be used as well. You can technically use a bigger SD card, but you will have to partition it into at least one 32GB or less segment
 in order to use the FAT32 file format, which is required to install the mod. You can also use Dolphin Emulator, a Wii emulator you can download on a computer, to play league matches
 but ONLY if you have a Wii or Wii U. This is because of a security feature on the Dolphin Emulator, that requires NAND files from a physical Wii or Wii U in order to play
 online (to prevent cheating with other, more popular mods online). This means that as long as you own a Wii or Wii U, you can download the emulator for free onto your computer/laptop,
